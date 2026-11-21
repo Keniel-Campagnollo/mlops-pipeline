@@ -2,7 +2,7 @@
 
 **Autor:** KenielCampagnollo  
 **GitHub:** [Keniel-Campagnollo](https://github.com/Keniel-Campagnollo)  
-**Atividade:** Aula 054 — Avaliação de Desempenho / Modularização do Pipeline de ML
+**Atividade:**Avaliação de Desempenho / Modularização do Pipeline de ML
 
 Este projeto foi integrado à estrutura **gerada pelo Cookiecutter oficial**
 `cookiecutter gh:weslleymoura/mlops-template`, executado pelo próprio aluno.
